@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "list" | tr ' ' '\n' | sort | uniq -c | awk
+echo "list" | tr | sort | uniq -c | awk
