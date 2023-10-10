@@ -1,2 +1,2 @@
 #!/bin/bash
-ghjg
+grep -B 3 "root" /etc/passwd
